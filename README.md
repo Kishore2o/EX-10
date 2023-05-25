@@ -1,7 +1,8 @@
 # EX-10 APPLICATION USING TCP SOCKETS - FILE TRANSFER PROGRAM
 # DATE :
 11-05-2023
-# AIM :To write a python program for creating File Transfer using TCP Sockets Links.
+# AIM :
+To write a python program for creating File Transfer using TCP Sockets Links.
 # ALGORITHM :
 1.Start the program.
 
@@ -69,7 +70,8 @@ while True:
 ![image](https://github.com/Kishore2o/EX-10/assets/118679883/0b827349-373f-4cf4-80aa-9f7d92fe9b4f)
 
 # SERVER :
-![image](https://github.com/Kishore2o/EX-10/assets/118679883/2be73fae-19d5-4f8a-ad97-e4798f67a333)
+![image](https://github.com/Kishore2o/EX-10/assets/118679883/55b91c2e-3d50-417b-a135-8b4cc66c1b2a)
+
 
 # RESULT :
 
