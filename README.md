@@ -69,7 +69,7 @@ while True:
 ![image](https://github.com/Kishore2o/EX-10/assets/118679883/0b827349-373f-4cf4-80aa-9f7d92fe9b4f)
 
 # SERVER :
-![image](https://github.com/Kishore2o/EX-10/assets/118679883/05f799c7-4fe9-4c7f-b3c5-ffcd3c05fa3b)
+![image](https://github.com/Kishore2o/EX-10/assets/118679883/2be73fae-19d5-4f8a-ad97-e4798f67a333)
 
 # RESULT :
 
